@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://alberto:fran1992skx666@cluster0-shard-00-00.zpd3d.mongodb.net:27017,cluster0-shard-00-01.zpd3d.mongodb.net:27017,cluster0-shard-00-02.zpd3d.mongodb.net:27017/trabajoWebMongo?ssl=true&replicaSet=atlas-oqzz5a-shard-0&authSource=admin&retryWrites=true&w=majority",
+    "database": "",
+    "password": "",
+    "name": "db",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
